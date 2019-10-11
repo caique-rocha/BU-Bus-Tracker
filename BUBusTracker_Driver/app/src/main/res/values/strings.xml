@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BU Bus Mama(Driver)</string>
+    <string name="offline">Offline</string>
+    <string name="online">Online</string>
+    <string name="need_location">Enable GPS SERVICE</string>
+    <string name="location_content">This app wants to change your device settings use GPS,Wi-Fi and cell networks for your location</string>
+    <string-array name="bus_names">
+        <item>Please select a value</item>
+        <item>BIGBUS_01</item>
+        <item>BIGBUS_02</item>
+        <item>BIGBUS_03</item>
+        <item>BIGBUS_04</item>
+        <item>BIGBUS_05</item>
+    </string-array>
+</resources>
